@@ -1,0 +1,17 @@
+## Ignore File ##
+
+*.h5
+*.hdf5
+*.ipynb
+*.csv
+*.jpg
+*.npy
+*.png
+*.model
+*.dat
+*.pyc
+*.json
+data/*
+graph/*
+django/*
+*.db
